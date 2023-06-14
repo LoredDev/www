@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+pnpm-lock.yaml
+/.husky
+/src/lib/components.d.ts
+/src/lib/imports.d.ts
+/.eslint-auto-import.json
+*.svg
+*.scss
