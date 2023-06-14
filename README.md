@@ -1,12 +1,12 @@
 <p align="center">
-	<a href="https://guz.vercel.app">
-		<img src="./.github/assets/013.svg" height="96">
+	<a href="https://lored.guz.one">
+		<img src="./src/lib/assets/logo-light.svg" height="96">
 		<h3 align="center">WWW</h3>
 	</a>
 </p>
 
 <p align="center">
-	<samp>My personal website powered by <a href="https://kit.svelte.dev">SvelteKit</a></samp>
+	<samp>Lored website and repo for web-based tools and APIs</samp>
 </p>
 <p align="center">
 	<samp>-----------------------------------------------------------------</samp>
