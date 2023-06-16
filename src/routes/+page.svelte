@@ -1,5 +1,6 @@
-<script lang="ts">
-	</script>
+<script>
+	////
+</script>
 
 <section un-max-w="60ch" un-m="y-auto" un-font="cal">
 	<figure
